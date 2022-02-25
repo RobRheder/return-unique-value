@@ -10,8 +10,13 @@ start service
 
 enter url
 	
-	localhost:port/api/get?number=[enter_number]
+	http://host:port/api/get?number=[enter_number]
 	
+## Unit Testing
 
-## Built with
+	.\vendor\bin\phpunit
+
+
+## Built With
+
 Slim Framework
