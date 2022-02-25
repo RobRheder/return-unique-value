@@ -24,4 +24,4 @@ enter url in your web browser
 
 ## Built With
 
-<a href='https://www.slimframework.com/'>Slim Framework</a> 
+<a href="https://www.slimframework.com/" target="_blank">Slim Framework</a> 
