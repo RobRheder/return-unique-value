@@ -4,14 +4,18 @@ Restful API returning unique value where input >= unique output
 
 ## Usage
 
-start service
+Pointing folder
+	cd foldername
+
+afterf folder pointed, start service
 
 	composer start
 
-enter url
+enter url in your web browser
 	
 	http://host:port/api/get?number=[enter_number]
 	
+
 ## Unit Testing
 
 	.\vendor\bin\phpunit
