@@ -13,5 +13,5 @@ enter url
 	localhost:port/api/get?number=[enter_number]
 	
 
-## Usage
+## Built with
 Slim Framework
