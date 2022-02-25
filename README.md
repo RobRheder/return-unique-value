@@ -8,7 +8,7 @@ Pointing folder
 
 	cd foldername
 
-afterf folder pointed, start service
+after folder pointed, start service
 
 	composer start
 
